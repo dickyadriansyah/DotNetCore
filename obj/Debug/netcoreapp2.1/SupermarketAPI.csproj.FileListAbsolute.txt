@@ -1,0 +1,28 @@
+/home/dickyadriansyah/Documents/c#/TestApi/SupermarketAPI/bin/Debug/netcoreapp2.1/SupermarketAPI.deps.json
+/home/dickyadriansyah/Documents/c#/TestApi/SupermarketAPI/bin/Debug/netcoreapp2.1/SupermarketAPI.runtimeconfig.json
+/home/dickyadriansyah/Documents/c#/TestApi/SupermarketAPI/bin/Debug/netcoreapp2.1/SupermarketAPI.runtimeconfig.dev.json
+/home/dickyadriansyah/Documents/c#/TestApi/SupermarketAPI/bin/Debug/netcoreapp2.1/SupermarketAPI.dll
+/home/dickyadriansyah/Documents/c#/TestApi/SupermarketAPI/bin/Debug/netcoreapp2.1/SupermarketAPI.pdb
+/home/dickyadriansyah/Documents/c#/TestApi/SupermarketAPI/obj/Debug/netcoreapp2.1/SupermarketAPI.csprojAssemblyReference.cache
+/home/dickyadriansyah/Documents/c#/TestApi/SupermarketAPI/obj/Debug/netcoreapp2.1/SupermarketAPI.csproj.CoreCompileInputs.cache
+/home/dickyadriansyah/Documents/c#/TestApi/SupermarketAPI/obj/Debug/netcoreapp2.1/SupermarketAPI.RazorAssemblyInfo.cache
+/home/dickyadriansyah/Documents/c#/TestApi/SupermarketAPI/obj/Debug/netcoreapp2.1/SupermarketAPI.RazorAssemblyInfo.cs
+/home/dickyadriansyah/Documents/c#/TestApi/SupermarketAPI/obj/Debug/netcoreapp2.1/SupermarketAPI.AssemblyInfoInputs.cache
+/home/dickyadriansyah/Documents/c#/TestApi/SupermarketAPI/obj/Debug/netcoreapp2.1/SupermarketAPI.AssemblyInfo.cs
+/home/dickyadriansyah/Documents/c#/TestApi/SupermarketAPI/obj/Debug/netcoreapp2.1/SupermarketAPI.RazorTargetAssemblyInfo.cache
+/home/dickyadriansyah/Documents/c#/TestApi/SupermarketAPI/obj/Debug/netcoreapp2.1/SupermarketAPI.dll
+/home/dickyadriansyah/Documents/c#/TestApi/SupermarketAPI/obj/Debug/netcoreapp2.1/SupermarketAPI.pdb
+D:\DOP INTEGRASI ACTION\TestApi\SupermarketAPI\bin\Debug\netcoreapp2.1\SupermarketAPI.deps.json
+D:\DOP INTEGRASI ACTION\TestApi\SupermarketAPI\bin\Debug\netcoreapp2.1\SupermarketAPI.runtimeconfig.json
+D:\DOP INTEGRASI ACTION\TestApi\SupermarketAPI\bin\Debug\netcoreapp2.1\SupermarketAPI.runtimeconfig.dev.json
+D:\DOP INTEGRASI ACTION\TestApi\SupermarketAPI\bin\Debug\netcoreapp2.1\SupermarketAPI.dll
+D:\DOP INTEGRASI ACTION\TestApi\SupermarketAPI\bin\Debug\netcoreapp2.1\SupermarketAPI.pdb
+D:\DOP INTEGRASI ACTION\TestApi\SupermarketAPI\obj\Debug\netcoreapp2.1\SupermarketAPI.csprojAssemblyReference.cache
+D:\DOP INTEGRASI ACTION\TestApi\SupermarketAPI\obj\Debug\netcoreapp2.1\SupermarketAPI.csproj.CoreCompileInputs.cache
+D:\DOP INTEGRASI ACTION\TestApi\SupermarketAPI\obj\Debug\netcoreapp2.1\SupermarketAPI.RazorAssemblyInfo.cache
+D:\DOP INTEGRASI ACTION\TestApi\SupermarketAPI\obj\Debug\netcoreapp2.1\SupermarketAPI.RazorAssemblyInfo.cs
+D:\DOP INTEGRASI ACTION\TestApi\SupermarketAPI\obj\Debug\netcoreapp2.1\SupermarketAPI.AssemblyInfoInputs.cache
+D:\DOP INTEGRASI ACTION\TestApi\SupermarketAPI\obj\Debug\netcoreapp2.1\SupermarketAPI.AssemblyInfo.cs
+D:\DOP INTEGRASI ACTION\TestApi\SupermarketAPI\obj\Debug\netcoreapp2.1\SupermarketAPI.RazorTargetAssemblyInfo.cache
+D:\DOP INTEGRASI ACTION\TestApi\SupermarketAPI\obj\Debug\netcoreapp2.1\SupermarketAPI.dll
+D:\DOP INTEGRASI ACTION\TestApi\SupermarketAPI\obj\Debug\netcoreapp2.1\SupermarketAPI.pdb
